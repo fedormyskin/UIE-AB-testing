@@ -2,8 +2,8 @@ baseurl: https://demo.gethugothemes.com/vex/examplesite/
 title: Vex | hugo landing page template
 theme: vex-hugo
 summarylength: '20'
-googleAnalytics: 'G-4VQFDC09TT'
-disableLanguages: []
+googleAnalytics: 'UA-222571123-1'
+disableLanguages: [fr]
 markup:
   goldmark:
     renderer:
